@@ -97,8 +97,8 @@ Step14. click on debug and simulate using simulation as shown below
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME:RASIKA
-REFERENCE NUMBER:212222230117
+Developed By: Rasika.M
+Registration No: 212222230117
 ```
 
 ```
@@ -111,10 +111,12 @@ HAL_TIM_PWM_Start(&htim2,TIM_CHANNEL_1);
 
 
 ## Output screen shots of proteus  :
- ![output screen](https://github.com/rasika1206/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/124434806/2c626a44-3832-4d9c-bdf8-6ebc854470b8)
+ 
+![OUTPUT](https://github.com/rasika1206/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/124434806/f39fd0bb-baa2-4348-8aaf-ffe9d133dfbb)
 
 ## Circuit diagram:
-![pdf form](https://github.com/rasika1206/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/124434806/c8c8b28f-0d46-4ae0-bd40-1372481d768f)
+[PDF.PDF](https://github.com/rasika1206/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/files/12889921/PDF.PDF)
+
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION :
 ## FOR PULSE AT 500
